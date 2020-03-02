@@ -1,0 +1,11 @@
+{
+  "name": "miio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "miio": "https://github.com/elpsk/miio.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
